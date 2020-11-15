@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mike Nguyen</title>
+    <link>https://mikenguyen13.github.io/bio2/tags/</link>
+    <description>Recent content in Tags on Mike Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikenguyen13.github.io/bio2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>brand</title>
+      <link>https://mikenguyen13.github.io/bio2/tags/brand/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/tags/brand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceo</title>
+      <link>https://mikenguyen13.github.io/bio2/tags/ceo/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/tags/ceo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

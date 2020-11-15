@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Nguyen</title>
+    <link>https://mikenguyen13.github.io/bio2/</link>
+    <description>Recent content on Mike Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikenguyen13.github.io/bio2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brand Equity Bibliometrix Analysis</title>
+      <link>https://mikenguyen13.github.io/bio2/projects/project-1/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/projects/project-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceo</title>
+      <link>https://mikenguyen13.github.io/bio2/projects/project-1-copy/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/projects/project-1-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mikenguyen13.github.io/bio2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/contact/</guid>
+      <description>If you have questions or inquiries, please feel free to contact me.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>

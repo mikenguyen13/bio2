@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mike Nguyen</title>
+    <link>https://mikenguyen13.github.io/bio2/projects/</link>
+    <description>Recent content in Projects on Mike Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mikenguyen13.github.io/bio2/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brand Equity Bibliometrix Analysis</title>
+      <link>https://mikenguyen13.github.io/bio2/projects/project-1/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/projects/project-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceo</title>
+      <link>https://mikenguyen13.github.io/bio2/projects/project-1-copy/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikenguyen13.github.io/bio2/projects/project-1-copy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
